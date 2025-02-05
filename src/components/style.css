@@ -75,7 +75,6 @@ body {
   font-weight: 600;
 }
 
-/* Domain Grid */
 .domains-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -104,7 +103,6 @@ body {
   margin-bottom: 0.5rem;
 }
 
-/* Form Section */
 form {
   width: 100%;
 }
