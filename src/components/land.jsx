@@ -96,7 +96,8 @@ const Intern = () => {
 
   return (
     <div className="container">
-      {/* Hero Section */}
+     
+      <div className="front">
       <header className="hero">
         <div className="hero-content">
           <h1 className="hero-title">TechSpira Internships</h1>
@@ -107,7 +108,6 @@ const Intern = () => {
         </div>
       </header>
 
-      {/* About Company Section */}
       <section className="card">
         <h2 className="heading">About TechSpira</h2>
         <p>
@@ -127,6 +127,7 @@ const Intern = () => {
         professional growth.
         </p>
       </section>
+      </div>
 
       {/* Domains Section */}
       <section className="card">
