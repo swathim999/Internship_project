@@ -147,7 +147,7 @@ const Intern = () => {
         <h2 className="heading">Apply Now</h2>
         <p>Fill out the form below to apply for our internship program</p>
         <form
-          action="https://formsubmit.co/rockyrocky9526@gmail.com"
+          action="https://formsubmit.co/enasup@techspira.co.in"
           method="POST"
           encType="multipart/form-data"
         >
